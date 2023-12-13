@@ -1,8 +1,3 @@
-/*
- * 215150201111018_FATHIA AMALIAH
- * 215150201111021_SAFIR MAGENTA PUTRI BASTOMI
- */
-
 package mazinga;
 
 import java.util.Scanner;
